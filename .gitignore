@@ -20,6 +20,9 @@
 # Go workspace file
 go.work
 go.work.sum
+.*.toml
 
 # env file
 .env
+
+tmp/*
